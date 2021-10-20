@@ -28,22 +28,27 @@ yarn add react-stopwatch-input
 <h2> Example </h2>
 Here's an example of basic usage:
 
-```JSX
-import React, { useState } from 'react';
+```TSX
+import React from 'react';
+import './App.css';
 import StopwatchInput from 'react-stopwatch-input';
 
-function Test() {
-  const [value, setValue] = useState('10:00');
-    return (
-        <div>
-            <StopwatchInput
-                onChange={(newValue)=>setValue(value)}
-                value={value}
-            />
-        </div>
-    );
+function App() {
+  return (
+    <div className="App">
+      <p>Basic input</p>
+      <StopwatchInput 
+        name="stopwatchInput"
+        required={false}
+      />
+    </div>
+  );
 }
+
+export default App;
 ```
+
+<img src='./src/media/example.png' width="300">
 
 <h2></h2>
 <div align=center>
