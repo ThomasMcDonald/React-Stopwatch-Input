@@ -7,5 +7,5 @@ interface ITimeSeriesInputProps {
     className?: string;
     onChange?: (e: ChangeEvent<HTMLInputElement>) => void;
 }
-declare function TimeSeriesInput(props: ITimeSeriesInputProps): JSX.Element;
-export default TimeSeriesInput;
+declare function StopwatchInput(props: ITimeSeriesInputProps): JSX.Element;
+export default StopwatchInput;

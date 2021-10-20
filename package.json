@@ -1,8 +1,29 @@
 {
-  "name": "time-series-input",
+  "name": "react-stopwatch-input",
   "version": "1.0.0",
-  "description": "Time inputs for React",
+  "description": "Simple react input for stopwatch times",
   "license": "MIT",
+  "keywords": [
+    "time",
+    "input",
+    "react-component",
+    "component",
+    "picker",
+    "react-time-picker",
+    "react-time-input",
+    "time-picker",
+    "time-input",
+    "react-time",
+    "react",
+    "react-time",
+    "components",
+    "ui",
+    "react-time-picker-input"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ornaldo-RP-R/React-Time-Picker-Input"
+  },
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
   "types": "./lib/esm/index.d.ts",

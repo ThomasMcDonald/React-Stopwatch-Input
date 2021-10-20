@@ -9,7 +9,7 @@ interface ITimeSeriesInputProps {
 	onChange?: (e:ChangeEvent<HTMLInputElement>) => void
 }
 
-function TimeSeriesInput(props:ITimeSeriesInputProps): JSX.Element {
+function StopwatchInput(props:ITimeSeriesInputProps): JSX.Element {
 	const { name, value, required, id, className, onChange } = props;
 
 	const inputChangeEvent = (e: ChangeEvent<HTMLInputElement>) => {
@@ -49,4 +49,4 @@ function TimeSeriesInput(props:ITimeSeriesInputProps): JSX.Element {
 	)
 }
 
-export default TimeSeriesInput;
+export default StopwatchInput;
