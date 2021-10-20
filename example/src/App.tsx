@@ -1,13 +1,13 @@
 import React from 'react';
 import './App.css';
-import TimeSeriesInput from 'time-series-input';
+import StopwatchInput from 'react-stopwatch-input';
 
 function App() {
   return (
     <div className="App">
       <p>Basic input</p>
-      <TimeSeriesInput 
-        name="stonks"
+      <StopwatchInput 
+        name="stopwatchInput"
         required={false}
       />
     </div>
