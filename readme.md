@@ -1,4 +1,4 @@
-<h1 align=center>TimeSeries</h1>
+<h1 align=center>React Stopwatch Input</h1>
 
 <p align=center>
   React Component for stopwatch times
