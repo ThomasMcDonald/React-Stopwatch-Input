@@ -4,20 +4,25 @@
   React Component for stopwatch times
 </p>
 
-<p align=center>
+<p align=center>  
   <a href="https://github.com/ThomasMcDonald/TimeSeries"><img src="https://badgen.net/github/license/ThomasMcDonald/TimeSeries"></a>
+    
+  [![Build](https://github.com/ThomasMcDonald/React-Stopwatch-Input/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/ThomasMcDonald/React-Stopwatch-Input/actions/workflows/npm-publish.yml)
+
 </p>
 
+
 <h2>Installation</h2>
-```bash npm install react-stopwatch-input```
+
+```bash
+npm install react-stopwatch-input
+```
 or
-```bash yarn add react-time-picker-input```
+```bash
+yarn add react-stopwatch-input
+```
 
 ``` import StopwatchInput from 'react-stopwatch-input' ```
-
-
-
-<h2> Development </h2>
 
 
 <h2> Example </h2>
@@ -40,10 +45,11 @@ function Test() {
 }
 ```
 
-<strong>NOTE:</strong> This package was created so i could learn how to create npm packages and use git actions. Use at own risk.
 <h2></h2>
 <div align=center>
-  Made by [Thomas McDonald](https://github.com/ThomasMcDonald).
   
+  Made by [Thomas McDonald](https://github.com/ThomasMcDonald).
+   
+  <strong>NOTE:</strong> This package was created so I could learn how to create npm packages and use git actions. Use at own risk.
 </div>
 
