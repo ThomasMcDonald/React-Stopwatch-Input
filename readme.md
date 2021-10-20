@@ -5,7 +5,7 @@
 </p>
 
 <p align=center>  
-  <a href="https://github.com/ThomasMcDonald/TimeSeries"><img src="https://badgen.net/github/license/ThomasMcDonald/TimeSeries"></a>
+  <a href="https://github.com/ThomasMcDonald/React-Stopwatch-Input"><img src="https://badgen.net/github/license/ThomasMcDonald/React-Stopwatch-Input"></a>
     
   [![Build](https://github.com/ThomasMcDonald/React-Stopwatch-Input/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/ThomasMcDonald/React-Stopwatch-Input/actions/workflows/npm-publish.yml)
 
