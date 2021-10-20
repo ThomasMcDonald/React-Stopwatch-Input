@@ -18,11 +18,11 @@
     "react-time",
     "components",
     "ui",
-    "react-time-picker-input"
+    "react-stopwatch-input"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ornaldo-RP-R/React-Time-Picker-Input"
+    "url": "git+https://github.com/ThomasMcDonald/React-Stopwatch-Input"
   },
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
