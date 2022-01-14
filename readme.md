@@ -4,12 +4,11 @@
   React Component for stopwatch times
 </p>
 
-<p align=center>  
-  <a href="https://github.com/ThomasMcDonald/React-Stopwatch-Input"><img src="https://badgen.net/github/license/ThomasMcDonald/React-Stopwatch-Input"></a>
-    
-  [![Build](https://github.com/ThomasMcDonald/React-Stopwatch-Input/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/ThomasMcDonald/React-Stopwatch-Input/actions/workflows/npm-publish.yml)
-
+<p align="center">
+  <a href="https://github.com/ThomasMcDonald/React-Stopwatch-Input" alt="Licence"><img src="https://badgen.net/github/license/ThomasMcDonald/React-Stopwatch-Input" alt="Licence"></a>
+  <a href="https://www.npmjs.com/package/react-stopwatch-input" alt="npm version"><img src="https://badge.fury.io/js/react-stopwatch-input.svg?style=flat" alt="npm version"></a>
 </p>
+
 
 
 <h2>Installation</h2>
