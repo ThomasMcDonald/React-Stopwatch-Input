@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ThomasMcDonald/React-Stopwatch-Input" alt="Licence"><img src="https://badgen.net/github/license/ThomasMcDonald/React-Stopwatch-Input" alt="Licence"></a>
-  <a href="https://www.npmjs.com/package/react-stopwatch-input" alt="npm version"><img src="https://badge.fury.io/js/react-stopwatch-input.svg?style=flat" alt="npm version"></a>
+  <a href="https://github.com/ThomasMcDonald/React-Stopwatch-Input" alt="Licence" target="_blank"><img src="https://badgen.net/github/license/ThomasMcDonald/React-Stopwatch-Input" alt="Licence"></a>
+  <a href="https://www.npmjs.com/package/react-stopwatch-input" alt="npm version" target="_blank"><img src="https://badge.fury.io/js/react-stopwatch-input.svg?style=flat" alt="npm version"></a>
 </p>
 
 
